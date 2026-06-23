@@ -5,5 +5,5 @@ Python is my preferred language but learning C++ and Fullstack aswell
 
 Laziness is just creativity waiting for efficiency\
 About Me:
-- Like to game and watch anime
+- Like to play badminton and video games
 - I love cats
